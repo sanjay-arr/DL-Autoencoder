@@ -31,9 +31,9 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Name:Naveenkumar M
+### Name: G Sanjay
 
-### Register Number:212224230183
+### Register Number: 212224230243
 
 ```python
 # Autoencoder for Image Denoising using PyTorch
